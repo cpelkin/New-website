@@ -1,0 +1,197 @@
+.nav-bar > ul {
+  display: inline;
+  font: 400 18px/1.5 'Inconsolata';
+  list-style-type: none;
+  margin-top: 100px;
+}
+
+.header {
+  background-image: url(https://images.unsplash.com/photo-1434940803764-819504afa6f8?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=2fa7ced0928d9fb006496654cc56acf8);
+  background-size: cover;
+  background-position: center;
+  height: 1050px;
+  background-attachment:fixed`
+}
+
+.logo {
+  float:right;
+  margin-right: 50px;
+  margin-top: 50px;
+}
+
+.introduction {
+  margin-left: 100px;
+  margin-right: 50px;
+  margin-top: 100px;
+  clear: both;
+}
+
+.nav-bar {
+  margin-left: 100px;
+  margin-bottom: 60px;
+  float:left;
+}
+
+.nav-bar ul {
+  margin-top: 100px;
+}
+
+.my-journey {
+
+  width: 70%;
+  float: left;
+  margin-bottom: 150px;
+}
+
+.my-journey h2 {
+  display: block;
+}
+
+.my-journey-all {
+  margin-left: 100px;
+  margin-top: 100px;
+}
+.footer {
+  margin-top: 150px;
+}
+
+.footer p {
+  font: 400 18px/1.5 'Inconsolata';
+  text-decoration: underline;
+  color: #FFFFFF;
+}
+
+.my-journey-image {
+  background-image: url(https://images.unsplash.com/photo-1439566543816-a4a65e78ce26?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=4409bdb380a2fe01c4a798e92a8e59a4);
+  background-size: cover;
+  background-position: center;
+  height: 1050px;
+  background-attachment:fixed`
+}
+
+.get-in-touch p {
+  font: 400 18px/1.5 'Inconsolata';
+}
+
+form {
+  width: 100%;
+}
+
+form div + div {
+    margin-top: 1em;
+}
+
+label {
+    display: inline-block;
+    width: 90px;
+    text-align: left;
+    font: 400 18px/1.5 'Inconsolata';
+}
+
+input, textarea {
+    font: 400 18px/1.5 'Inconsolata';
+    min-width: 600px;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    background-color: #E7E7E7;
+    border: none;
+}
+
+textarea {
+  height:200px;
+}
+
+button {
+    font: 400 18px/1.5 'Inconsolata';
+    background-color: #FDE74C;
+    border: none;
+}
+
+.button.hover {
+    text-decoration: underline;
+}
+
+.sub-heading {
+  margin-top: 0;
+}
+
+.work-image {
+  display: inline-block;
+  height: 250px;
+  margin: 2em 2em 2em 0;
+}
+
+.introduction > p {
+font: 400 40px/1.5 'Alegreya';
+}
+
+.my-journey > p {
+  font: 400 18px/1.5 'Inconsolata';
+}
+
+strong {
+  font: 800 36px/1.5 'Alegreya';
+}
+
+h3 {
+  font: 800 24px/1.5 'Alegreya';
+}
+
+h4 {
+  font: 400 16px/1.5 'Inconsolata';
+}
+
+.key {
+  width: 25%;
+  list-style-type: none;
+  font: 400 18px/1.5 'Inconsolata';
+  display: inline;
+}
+
+.my-work {
+  clear: both;
+  margin-left: 100px;
+  margin-top: 150px;
+}
+
+.get-in-touch {
+  margin-left: 100px;
+  margin-top: 150px;
+  clear: both;
+}
+
+.footer {
+  margin-left: 100px;
+  margin-bottom: 100px;
+}
+
+.bar {
+  background-color: #363636;
+  height: 180px;
+}
+h2 {
+  font: 800 36px/1.5 'Alegreya';
+  text-decoration: underline;
+}
+
+.learning {
+  background-color: #5BC0EB;
+}
+
+#top, #bottom, #left, #right {
+	background: #FFFFFF;
+	position: fixed;
+	}
+	#left, #right {
+		top: 0; bottom: 0;
+		width: 12px;
+		}
+		#left { left: 0; }
+		#right { right: 0; }
+
+	#top, #bottom {
+		left: 0; right: 0;
+		height: 12px;
+		}
+		#top { top: 0; }
+		#bottom { bottom: 0; }
